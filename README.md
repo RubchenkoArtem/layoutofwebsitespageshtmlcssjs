@@ -1,4 +1,4 @@
-# layoutofwebsitespageshtmlcssjs
+# layout of web site
 
 [Link to hosted app](https://rubchenkoartem.github.io/layoutofwebsitespageshtmlcssjs/)
 
