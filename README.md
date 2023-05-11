@@ -1,5 +1,5 @@
 # layoutofwebsitespageshtmlcssjs
 
-[Link to hosted app](https://rubchenkoartem.github.io/freetestsite/)
+[Link to hosted app](https://rubchenkoartem.github.io/layoutofwebsitespageshtmlcssjs/)
 
-![Preview for the Web Site According to the layout](./Design/1.jpg)
+![Preview for the Web Site IPHONE](./Design/1.jpg)
